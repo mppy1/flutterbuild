@@ -1,0 +1,15 @@
+const httpHeaders={
+ 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+'Accept-Encoding': 'gzip, deflate, br',
+'Accept-Language': 'zh-CN,zh;q=0.9',
+'Cache-Control': 'max-age=0',
+'Connection': 'keep-alive',
+'Cookie': 'gksskpitn=3f671f39-0c71-4bca-9d31-ea4327d90f2e; GRID=3d6e52b-1329855-bcfacff-fcb3bd7; Hm_lvt_022f847c4e3acd44d4a2481d9187f1e6=1581997662; Hm_lpvt_022f847c4e3acd44d4a2481d9187f1e6=1581997662; _ga=GA1.2.1352425691.1581997662; _gid=GA1.2.756184831.1581997662; SERVERID=1fa1f330efedec1559b3abbcb6e30f50|1581998120|1581997294',
+'Host': 'time.geekbang.org',
+'Sec-Fetch-Dest': 'document',
+'Sec-Fetch-Mode': 'navigate',
+'Sec-Fetch-Site': 'same-origin',
+'Sec-Fetch-User': '?1',
+'Upgrade-Insecure-Requests': '1',
+'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/82.0.4060.0 Safari/537.36',
+};
