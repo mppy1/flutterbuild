@@ -13,7 +13,7 @@ class _LoadingPageState extends State<LoadingPage> {
     super.initState();
     new Future.delayed(Duration(seconds: 3),(){
       print('flutter 即时通讯APP界面实现');
-      Navigator.of(context).pushReplacementNamed('app');
+      Navigator.of(context).pushReplacementNamed('chatApp');
     });
   }
   @override

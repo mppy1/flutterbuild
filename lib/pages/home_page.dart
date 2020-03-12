@@ -22,6 +22,12 @@ class _HomePageState extends State<HomePage> {
       body:new ListView(
         children: <Widget>[
           new ListTile(
+            title: new Text('Chats APP'),
+            onTap: (){
+              Navigator.pushNamed(context, 'chatLoading');
+            },
+          ),
+          new ListTile(
             title: new Text('Custom Themes'),
             onTap: (){
               Navigator.pushNamed(context, 'customThemesRoute');
